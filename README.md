@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi, I'm Prajkta Patil 👋
 
-<!--
-**prajktas-patil/prajktas-patil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student in Artificial Intelligence & Data Science  
+💻 Passionate about DSA, Machine Learning & Problem Solving  
+🚀 Aspiring Software Engineer  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+- C++
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+- Basics of Machine Learning
+- Web Development
+- SQL 
+
+## 🤖 Areas of Interest
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- Deep Learning
+- Competitive Programming
+
+
+## 📚 Currently Working On
+- Solving LeetCode consistently
+- Strengthening core CS fundamentals
+- Building AI-based projects
+
+## 🎯 Career Goal
+To become a strong AI Engineer and crack a top-tier internship by 3rd year.
